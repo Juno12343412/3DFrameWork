@@ -1,0 +1,317 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 24.05.2021 16:53:14
+
+newmtl polySurfaceMapGeoMesh1SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd treesbrush_a.dds
+
+newmtl polySurfaceMapGeoMesh2SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd treesbrush_a.dds
+
+newmtl polySurfaceMapGeoMesh3SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd bench_a.tftboardsizeincrease.dds
+
+newmtl polySurfaceMapGeoMesh4SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd island_grassrock_c.dds
+
+newmtl polySurfaceMapGeoMesh5SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd island_cliffrock_a.dds
+
+newmtl polySurfaceMapGeoMesh6SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd island_cliffrock_b.tftboardsizeincrease.dds
+
+newmtl polySurfaceMapGeoMesh7SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd treesbrush_a.dds
+
+newmtl polySurfaceMapGeoMesh8SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd battlefield_a.tftboardsizeincrease.dds
+
+newmtl polySurfaceMapGeoMesh9SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd rocks_a.dds
+
+newmtl polySurfaceMapGeoMesh10SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd brazier_a.dds
+
+newmtl polySurfaceMapGeoMesh11SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd poi_base_rock_front.dds
+
+newmtl polySurfaceMapGeoMesh12SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd treesbrush_a.dds
+
+newmtl polySurfaceMapGeoMesh13SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd treesbrush_a.dds
+
+newmtl polySurfaceMapGeoMesh14SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd island_grassrock_b.dds
+
+newmtl polySurfaceMapGeoMesh15SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd island_grassmain_a.tftboardsizeincrease.dds
+
+newmtl polySurfaceMapGeoMesh17SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd island_waterfall_bkdrop_a.dds
+
+newmtl polySurfaceMapGeoMesh18SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd edging_grass_a.dds
+
+newmtl polySurfaceMapGeoMesh19SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd flowers_a.dds
+
+newmtl polySurfaceMapGeoMesh20SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd tft_roots.dds
+
+newmtl polySurfaceMapGeoMesh21SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd edging_grass_a.dds
+
+newmtl polySurfaceMapGeoMesh22SG
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd flowers_b.dds
